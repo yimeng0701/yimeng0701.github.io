@@ -1,18 +1,18 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Yimeng Wu
+position: NLP Researcher
+affiliation: Huawei Noah's Ark Lab
+email: yimengwu71@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: yimeng wu's homepage
+description: Yimeng Wu's Homepage.
+canonical: https://yimeng0701.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=TrTASWoAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
