@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an NLP researcher at Huawei Noah’s Ark Lab in Hong Kong SAR. Before this, I worked at Huawei Canada Research Centre for 3 years. My work involves building pre-trained models for customers and conducting research related to model compression.
+
+I completed my Master’s degree in Electrical and Computer Engineering from McGill University in 2019 under the supervision of Dr. Ioannis Psaromiligkos. I received my Bachelor’s degree in Biomedical Engineering from Tianjin University in 2017.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Processing:** LLM Pretraining, Knowledge Distillation, Machine Translation
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2023]** I transferred from the Huawei Toronto office to the Hong Kong office.
+
 
 {% include_relative _includes/publications.md %}
 
