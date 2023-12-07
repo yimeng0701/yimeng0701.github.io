@@ -6,7 +6,7 @@ email: yimengwu71@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: yimeng wu's homepage
+keywords: Yimeng Wu
 description: Yimeng Wu's Homepage.
 canonical: https://yimeng0701.github.io/
 
@@ -14,9 +14,9 @@ canonical: https://yimeng0701.github.io/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=TrTASWoAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/yimeng0701
+linkedin: https://www.linkedin.com/in/yimeng-wu-032878126/?originalSubdomain=ca
+
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
