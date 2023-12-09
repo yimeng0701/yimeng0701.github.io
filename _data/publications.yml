@@ -5,7 +5,7 @@ main:
     conference_short: ACL
     conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.06800.pdf
-    image: ./assets/img/armus_figure.pdf
+    image: ./assets/img/armus.jpg
     
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
