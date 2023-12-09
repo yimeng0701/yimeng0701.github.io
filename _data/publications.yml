@@ -34,6 +34,16 @@ main:
     bibtex: https://dblp.org/rec/journals/corr/abs-2012-14022.html?view=bibtex
     image: ./assets/img/alp.png
 
+  - title: "JABER and SABER: Junior and Senior Arabic BERt"
+    authors: Abbas Ghaddar, <strong>Yimeng Wu</strong>, Ahmad Rashid, Khalil Bibi, Mehdi Rezagholizadeh, Chao Xing, Yasheng Wang, Duan Xinyu, Zhefeng Wang, Baoxing Huai, Xin Jiang, Qun Liu, Philippe Langlais
+    conference_short: ArXiv
+    conference: Preprint, 2021.
+    pdf: https://arxiv.org/pdf/2112.04329.pdf
+    code: https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/JABER-PyTorch
+    page: https://huggingface.co/huawei-noah/JABER
+    bibtex: https://dblp.org/rec/journals/corr/abs-2112-04329.html?view=bibtex
+    image: ./assets/img/jaber.png
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
