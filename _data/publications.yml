@@ -7,7 +7,15 @@ main:
     pdf: https://arxiv.org/pdf/2306.06800.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4RL90ZL1MCIJ:scholar.google.com/&output=citation&scisdr=ClGK2X2kEP-CptZbWyU:AFWwaeYAAAAAZXRdQyX2o9W-Qpu7FtkfJ_b4Me8&scisig=AFWwaeYAAAAAZXRdQ2FGd5HEoqtfihALlZUwiUg&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/armus.jpg
-    
+
+  - title: "Revisiting Pre-trained Language Models and their Evaluation for Arabic Natural Language Processing"
+    authors: Abbas Ghaddar*, <strong>Yimeng Wu*</strong>, Sunyam Bagga, Ahmad Rashid, Khalil Bibi, Mehdi Rezagholizadeh, Chao Xing, Yasheng Wang, Xinyu Duan, Zhefeng Wang, Baoxing Huai, Xin Jiang, Qun Liu, Philippe Langlais (*Equal Contribution)
+    conference_short: EMNLP
+    conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://aclanthology.org/2022.emnlp-main.205.pdf
+    model: https://huggingface.co/huawei-noah/AT5B
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:C1ja7KVsvv8J:scholar.google.com/&output=citation&scisdr=ClGK2X2kEP-CptZZAwY:AFWwaeYAAAAAZXRfGwbNICGAzw5B1ha-FlujSus&scisig=AFWwaeYAAAAAZXRfG5o5On4CWSe9xqxVsd-J5F8&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/jaber.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
