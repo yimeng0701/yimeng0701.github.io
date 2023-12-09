@@ -23,6 +23,7 @@ main:
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2021.
     pdf: https://aclanthology.org/2021.emnlp-main.603.pdf
     bibtex: https://dblp.org/rec/conf/emnlp/WuRGH021.html?view=bibtex
+    notes: Oral Presentation
     image: ./assets/img/universal_KD.png
 
 
