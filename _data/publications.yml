@@ -26,6 +26,14 @@ main:
     notes: Oral Presentation
     image: ./assets/img/universal_KD.png
 
+  - title: "Alp-kd: Attention-based layer projection for knowledge distillation"
+    authors: Peyman Passban, Yimeng Wu, Mehdi Rezagholizadeh, Qun Liu
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2012.14022.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-2012-14022.html?view=bibtex
+    image: ./assets/img/alp.png
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
