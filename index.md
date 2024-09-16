@@ -8,7 +8,11 @@ I am currently an NLP researcher at Huawei Noah’s Ark Lab in Hong Kong SAR. Be
 
 I completed my Master’s degree in Electrical and Computer Engineering from McGill University in 2019, under the supervision of Dr. Ioannis Psaromiligkos. I received my Bachelor’s degree in Biomedical Engineering from Tianjin University in 2017.
 
-**<font color="blue">Always looking for research interns who are interested in LLMs, especially MoE pretraining. Feel free to shoot me an email. For more details please check [Here](https://hkrc.gllue.com/portal/internalposition/list?forwardToken=ddbc1c65383347ae8f66edef7d6a5a2b&gql=keyword%3D%25E8%25AF%25AD%25E9%259F%25B3&page=1). </font>**
+**<font color="blue">Always looking for research interns who are interested in LLMs, especially MoE pretraining. Feel free to shoot me an email. For more details please check <a href="https://hkrc.gllue.com/portal/internalposition/list?forwardToken=ddbc1c65383347ae8f66edef7d6a5a2b&gql=keyword%3D%25E8%25AF%25AD%25E9%259F%25B3&page=1">here</a>. </font>**
+
+<!--
+[Here](https://hkrc.gllue.com/portal/internalposition/list?forwardToken=ddbc1c65383347ae8f66edef7d6a5a2b&gql=keyword%3D%25E8%25AF%25AD%25E9%259F%25B3&page=1)
+-->
 
 ## Research Interests
 
