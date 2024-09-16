@@ -1,5 +1,13 @@
 main:
 
+  - title: "Efficient Citer: Tuning Large Language Models for Enhanced Answer Quality and Verification"
+    authors: Marzieh Tahaei, Aref Jafari, Ahmad Rashid, David Alfonso-Hermelo, Khalil Bibi, <strong>Yimeng Wu</strong>, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh
+    conference_short: NAACL
+    conference: Findings of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.findings-naacl.277.pdf
+    bibtex: https://dblp.org/rec/conf/naacl/TahaeiJRABWGCR24.html?view=bibtex
+    image: ./assets/img/efficient_citer.PNG
+  
   - title: "AraMUS: Pushing the Limits of Data and Model Scale for Arabic Natural Language Processing"
     authors: Asaad Alghamdi, Xinyu Duan, Wei Jiang, Zhenhai Wang, <strong>Yimeng Wu</strong>, Qingrong Xia, Zhefeng Wang, Yi Zheng, Mehdi Rezagholizadeh, Baoxing Huai, Peilun Cheng, Abbas Ghaddar
     conference_short: ACL
