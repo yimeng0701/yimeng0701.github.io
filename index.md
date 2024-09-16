@@ -14,7 +14,7 @@ I completed my Master’s degree in Electrical and Computer Engineering from McG
 
 
 ## News
-
+- **[March. 2024]** Our work Efficient Citer is accepted to NAACL 2024 Findings!
 - **[May. 2023]** I transferred from the Huawei Toronto office to the Hong Kong office.
 
 
